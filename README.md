@@ -41,7 +41,7 @@ In Terminal window 2 type:
 
 # Supported tags
 
-* [![](https://images.microbadger.com/badges/version/zeiot/rpi-grafana.svg)](http://microbadger.com/images/zeiot/rpi-grafana "Get your own version badge on microbadger.com")
+* [![](https://images.microbadger.com/badges/version/zeiot/rpi-mosquitto.svg)](http://microbadger.com/images/zeiot/rpi-mosquitto "Get your own version badge on microbadger.com")
 
 
 ## License
